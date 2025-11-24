@@ -1,0 +1,27 @@
+{
+  "resources/css/app.css": {
+    "file": "assets/app-Dv7M_pfJ.css",
+    "src": "resources/css/app.css",
+    "isEntry": true,
+    "names": [
+      "app.css"
+    ]
+  },
+  "resources/css/filament/catalogo-alpa/theme.css": {
+    "file": "assets/theme-BjZiyMEJ.css",
+    "src": "resources/css/filament/catalogo-alpa/theme.css",
+    "isEntry": true,
+    "names": [
+      "theme.css"
+    ]
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-C3KA9hSL.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "css": [
+      "assets/app-CVuONdbL.css"
+    ]
+  }
+}
